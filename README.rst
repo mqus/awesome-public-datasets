@@ -77,6 +77,7 @@ Climate/Weather
 * `Brazilian Weather - Historical data (In Portuguese) <http://sinda.crn2.inpe.br/PCD/SITE/novo/site/>`_
 * `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
 * `Climate Data from UEA (updated monthly) <https://crudata.uea.ac.uk/cru/data/temperature/#datter and ftp://ftp.cmdl.noaa.gov/>`_
+* `German/European Weather (DWD) <https://www.dwd.de/EN/ourservices/opendata/opendata.html>`_ 
 * `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_
 * `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
 * `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
